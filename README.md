@@ -45,10 +45,14 @@ Using this [Deployment Guide](https://www.eliasbrange.dev/posts/deploy-fastapi-o
 
 At the moment the recipes are not stored in a database. They will just be printed to the console. **As I do not have access to a database or the resources to host one** I will not be able to implement this feature. If you would like to contribute to this project, please feel free to do so. 
 
-## Prerequisites
+## Prerequisites for Local Development
 
 - Python 3.8
 - Docker
+
+## Prerequisites for Deployment
+
+- AWS Account
 - AWS CLI
 - AWS CDK
 
@@ -57,7 +61,7 @@ At the moment the recipes are not stored in a database. They will just be printe
 
 run the following command to build the docker image:
 
-``` docker-compose up --build ```
+``` docker-compose up --build```
 
 You can then access the application at ```localhost:3000/docs```
 
