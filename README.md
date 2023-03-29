@@ -43,7 +43,7 @@ Using this [Deployment Guide](https://www.eliasbrange.dev/posts/deploy-fastapi-o
 
 ## Missing Features
 
-At the moment the recipes are not stored in a database. They will just be printed to the console. **As I do not have access to a database or the resources to host one** I will not be able to implement this feature. If you would like to contribute to this project, please feel free to do so. 
+At the moment the recipes are not stored in a database. They will just be printed to the console. **As I do not have access to a database or the resources to host one** so I will not be able to implement this feature. If you would like to contribute to this project, please feel free to do so. 
 
 ## Prerequisites for Local Development
 
